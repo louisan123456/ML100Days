@@ -5,3 +5,5 @@ test.ipynb
 Homework/D76_優化器 optimizers/saved_models/keras_cifar10_trained_model.h5
 Homework/D86_訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model/final_model.keras
 *.keras
+*.jpg
+*.pyc
